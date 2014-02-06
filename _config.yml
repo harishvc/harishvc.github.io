@@ -1,0 +1,4 @@
+markdown: redcarpet
+pygments: true
+gems:
+  - jekyll-redirect-from
