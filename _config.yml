@@ -3,6 +3,8 @@ url: http://harishvc.github.io/
 markdown: redcarpet
 pygments: true
 //source:      _source
+pretty: title/
+permalink: pretty
 gems:
   - jekyll-redirect-from
 exclude: [command.sh]
