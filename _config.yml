@@ -2,9 +2,11 @@ baseurl: /
 url: http://harishvc.github.io/
 markdown: redcarpet
 pygments: true
+//TODO: URL redirection is relative??
 //source:      _source
-pretty: title/
-permalink: pretty
+//TODO: Breaks 404 page?
+//pretty: title/
+//permalink: pretty
 gems:
   - jekyll-redirect-from
 exclude: [command.sh]
