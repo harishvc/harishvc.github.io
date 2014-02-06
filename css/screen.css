@@ -53,10 +53,10 @@ h1,h2,h3,h4,h5,h6 {
   margin: 1.618em 0 1em 0;
   text-rendering: optimizelegibility;
 }
-h1 { font-size: 150%; }
-h1 { font-size: 120%; }
-h3 { font-size: 110%; }
-h4 { font-size: 100%; }
+h1 { font-size: 160%; }
+h2 { font-size: 150%; }
+h3 { font-size: 140%; }
+h4 { font-size: 130%; }
 h5, h6 { font-size: 150%; }
 
 a { text-decoration:none; }
@@ -82,26 +82,32 @@ header {
   margin:0 60px 0 50px;
   color: #ccc;
 }
-  header h1 {
+
+header h1 {
     display: block;
     height: 50px;
     margin:30px 0 0 0;
     float: left;
-  }
-    header h1 a {
+    font-size: 110%; 
+    font-style: italic; 
+}
+
+/*
+header h1 a {
       display:inline-block;
       -webkit-transform: translate3d(0,0,0);
       -webkit-transition: 160ms -webkit-transform ease-out;
-    }
+ }
+*/
     header h1 a:hover {
       -webkit-transform: translate3d(0,2px,0);
   /*    -webkit-filter: blur(1px);
       -moz-filter: blur(1px);*/
       cursor:pointer;
     }
-    header h1 img { display:block; float:left; }
+header h1 img { display:block; float:left; padding-right:15px;}
 
-  header ul.navigation {
+header ul.navigation {
     display:block;
     text-align: left;
     float: right;
@@ -130,8 +136,8 @@ header {
 /* main content */
 div.content {
   background:white;
-  padding:70px 60px;
-  margin-bottom:60px;
+  padding:30px 70px;
+  margin-bottom:30px;
 }
 div.content.full-bleed {
   padding:0;
@@ -141,7 +147,7 @@ div.content.photo {
   margin:0;
 }
   div.content:not(.sub) h1:first-child {
-    margin-top:0; font-size:150%;
+    margin-top:0; font-size:160%;
   }
   
   div.content img, div.content iframe { display:block; max-width:100%; margin:1em 0; }

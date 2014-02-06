@@ -17,11 +17,18 @@
 
   <body{% if page.wide_layout %} class="wide"{% endif %}>
     <header>
-      <h1 class="logo"><a href="/"><img src="/pics/harishvc.jpeg" width="50" height="50" alt="Harish"/>&nbsp;Connecting Dots & Making a difference</a></h1>
+      <h1 class="logo">
+           <a href="/">
+           <img src="/pics/harishvc.jpeg" width="50" height="50" alt="Harish"/>
+           <span style="white-space: nowrap;">Making Connections &amp; Getting Creative</span>
+           </a>
+      </h1>
       <ul class="navigation">
+        <!--
         <li><a href="http://github.com/harishvc/" title="github">github</a></li>
         <li><a href="http://twitter.com/harishvc/">twitter</a><li>
         <li><a href="http://linkedin.com/in/harishvc/">linkedin</a></li>
+        -->
       </ul>
     </header>
     <!--div class="wrapper content"-->
@@ -31,7 +38,10 @@
     {% unless page.no_footer %}
     <footer>
             <p>
-                <a href="http://github.com/harishvc/">github.com/harishvc</a>&nbsp;&nbsp;&nbsp;
+                <span style="padding-right:10px"><a href="http://github.com/harishvc/">Github</a></span>
+                <span style="padding-right:10px"><a href="http://twitter.com/harishvc/">Twitter</a></span>
+                <span style="padding-right:10px"><a href="http://linkedin.com/in/harishvc/">LinkedIn</a></span>
+
            </p>
     </footer>
    {% endunless %}
