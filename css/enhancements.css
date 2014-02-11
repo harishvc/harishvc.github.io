@@ -1,0 +1,9 @@
+.Collage img{
+    margin:0;
+    padding:0;
+    display:inline-block;
+    //vertical-align:bottom;
+    vertical-align: top;
+    opacity:1;
+    border:5px solid #FFF;
+}
