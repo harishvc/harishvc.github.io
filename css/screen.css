@@ -88,7 +88,7 @@ header h1 {
     height: 50px;
     margin:30px 0 0 0;
     float: left;
-    font-size: 110%; 
+    //font-size: 110%; 
     font-style: italic; 
 }
 
@@ -121,11 +121,13 @@ header ul.navigation {
     margin-left: 1em;
   }
   header ul.navigation li:first-child { margin-left: 0; }
+  /*
   header ul.navigation li a {
     color: #888;
     text-decoration: none;
     font-size: 11px;
   }
+  */
   header ul.navigation li a:hover { color: black; text-decoration: none; }
   header ul.navigation li a.active { font-weight:bold; color:black; }
 
