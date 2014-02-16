@@ -1,12 +1,6 @@
-baseurl: /
-url: http://harishvc.github.io/
+tagline: "Connecting Ideas &amp; Getting Creative"
 markdown: redcarpet
 pygments: true
-//TODO: URL redirection is relative??
-//source:      _source
-//TODO: Breaks 404 page?
-//pretty: title/
-//permalink: pretty
+exclude: [command.sh]
 gems:
   - jekyll-redirect-from
-exclude: [command.sh]
