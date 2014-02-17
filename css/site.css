@@ -161,7 +161,8 @@ textarea {
   }
   a,
   a:visited {
-    text-decoration: underline;
+    //text-decoration: underline;
+    color: #005a8b;
   }
   a[href]:after {
     content: " (" attr(href) ")";
