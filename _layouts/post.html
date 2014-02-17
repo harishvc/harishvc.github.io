@@ -3,16 +3,14 @@ layout: default
 ---
 <div class="container">
  <section class="row">
-  <div class="span12">
-  <div class="post">
-    {% unless page.photo_url %}
-    <h1>{{ page.title }}</h1>
-    <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
-      {{ page.date | date: "%b %d, %Y" }}
-    </info>
-    {% endunless %}
-    <div class="body">{{ content }}</div>
-    <div class="breaker"></div>
-  </div>
- </div>
+   <div class="span12">
+     <div class="post">
+      {% unless page.photo_url %}
+       <h1>{{ page.title }}</h1>
+       <div class="datetime=" style="padding-bottom:15px">{{ page.date | date: "%b %d, %Y" }}</div>
+       {% endunless %}
+       <div class="body">{{ content }}</div>
+     </div>
+    </div>
+ </section>
 </div>
