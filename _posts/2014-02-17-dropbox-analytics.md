@@ -7,15 +7,15 @@ keywords: "dropbox, analytics, integration, automate"
 ---
 Delighted to integrate with <a href="http://www.dropbox.com">Dropbox</a> API to provide analytics. 
 
-## Join Dropbox Developer & Register your app 
-Visit <a href="https://www.dropbox.com/developers/apps">https://www.dropbox.com/developers/apps</a> to register your app. You can run you app in ```localhost``` during development.
+## Register your app 
+Visit <a href="https://www.dropbox.com/developers/apps">https://www.dropbox.com/developers/apps</a> and register your app. You can run you app in ```localhost``` during development.
 
 ## Download dropbox-analytics
-You can visit <a href="https://github.com/harishvc/dropbox-analytics">https://github.com/harishvc/dropbox-analytics</a> and download the code. Checkout the ```README``` file
+Checkout my <a href="https://github.com/harishvc/dropbox-analytics">Dropbox Analytics</a> repository available on github written in ```node.js```
 
 ## Screen shots
 
-### Are you ready?  
+### Getting started  
 ![Are you ready?](/pics/dropbox-start.png)
 
 ### Console messages (when dubug flag is enabled)
@@ -26,3 +26,5 @@ You can visit <a href="https://github.com/harishvc/dropbox-analytics">https://gi
 ### Welcome screen
 ![dropbox welcome](/pics/dropbox-output.png)
 
+### Curious about the metadata coming from dropbox?
+![dropbox metadata](/pics/dropbox-metadata.png)
