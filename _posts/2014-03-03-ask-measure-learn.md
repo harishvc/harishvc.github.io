@@ -19,7 +19,7 @@ I first learned about Ask Measure Learn from #StrataConf2014. I learned about th
 
  
 I just completed reading  Ask Measure Learn and would highly recommend this book to anyone interested in getting value from social media analytics. 
-Authors of the book offer a comprehensive primer on understanding big data and this book is filled up with numerous examples from numerous industries across many sectors.
+Authors of the book offer a comprehensive primer on understanding big data and this book is filled up with examples from numerous industries across many sectors.
 I am also impressed with the extensive collection of references providing interesting prespectives. Appendix provides numerous resources for futher reading. 
 As a self taught <a href="/2014/02/10/sochi2014-day4/">data analyst</a> I now have a better understanding of big data, right set of questions to ask and the complexity of the problem to solve.
 
