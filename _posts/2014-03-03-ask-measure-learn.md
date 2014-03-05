@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book Review: Ask Measure Learn"
+title:  "Book Review: ASK MEASURE LEARN"
 date:   2014-03-03
 excerpt: Review for Ask, Measure, Learn
 keywords: "analytics, social media, #AskMeasureLearn"
@@ -11,27 +11,22 @@ keywords: "analytics, social media, #AskMeasureLearn"
        <strong>ASK MEASURE LEARN</strong><br/>
        <i>Using Social Media Analytics to Understand and Influence Customer Behavior</i><br/> 
        <a href="http://www.oreillynet.com/pub/au/5391">Soumitra Dutta</a>, <a href="http://www.oreillynet.com/pub/au/5392">Lutz Finger</a>
+       <br/>Publisher: O'Reilly Media
+       <br/>Paperback: 338 pages
+       <br/>ISBN-10: 1449336752 , ISBN-13: 978-1449336752  
 </p>
 <div style="clear:both"/>
 
-## My Review
-
 
 I first learned about ASK MEASURE LEARN from <a href="http://strataconf.com/strata2014">O'Reilly Strata 2014 (Santa Clara, CA)</a> while watching the audience excitement on social media during Lutz Finger's presentation. 
-
-
  
 I just completed reading  ASK MEASURE LEARN and would highly recommend this book to anyone interested in optimizing value from social media analytics. 
-Authors of the book offer a comprehensive primer on understanding big data with numerous case studies from industries across many sectors.
-I am also impressed with the extensive collection of references providing a wealth of information and interesting perspectives. 
+Authors of the book offer a comprehensive primer on understanding big data with numerous case studies from industries across many sectors that could benefit managers, data scientists or anyone interested in data analytics.
+I am also impressed with the extensive collection of references providing a wealth of information and interesting perspectives (see my tweets below). 
 The Appendix provides a comprehensive collection of relevant and up-to-date resources for further reading.
 
 As a self-taught <a href="/2014/02/10/sochi2014-day4/">data analyst</a> I now have a better awareness of big data and the right set of questions 
-to ask in addition to surrounding complexities.
-
-
-##My tweets
-I tried something new - sharing my notes as I was reading. Below are tweets shared.
+to ask in addition to surrounding complexities. I was sharing my notes as I was reading. Below are my tweets.
 
 <blockquote class="twitter-tweet" lang="en"><p>&quot;61.5% of all internet traffic is nonhuman&quot; <a href="https://twitter.com/search?q=%23AskMeasureLearn&amp;src=hash">#AskMeasureLearn</a> <a href="http://t.co/DUk5GbWWjg">pic.twitter.com/DUk5GbWWjg</a></p>&mdash; Harish Chakravarthy (@harishvc) <a href="https://twitter.com/harishvc/statuses/439981678917083136">March 2, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
