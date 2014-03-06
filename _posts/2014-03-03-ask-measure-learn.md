@@ -2,7 +2,7 @@
 layout: post
 title:  "Book Review: ASK MEASURE LEARN"
 date:   2014-03-03
-excerpt: Review for Ask, Measure, Learn
+excerpt: Review for ASK MEASURE LEARN
 keywords: "analytics, social media, #AskMeasureLearn"
 ---
 <p>
@@ -49,4 +49,4 @@ to ask in addition to surrounding complexities. I was sharing my notes as I was 
 
 
 ##Disclosure
-I strongly believe in leveraging analytics to improve services and user experience.
+I strongly believe in leveraging analytics to improve services and user experience.  I reviewed ASK MEASURE LEARN as a part of <a href="http://oreilly.com/bloggers">O'Reilly Reader Review Program</a>
