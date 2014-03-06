@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Dropbox Analytics"
+title:  "Dropbox Analytics driven by Node.js"
 date:   2014-02-17
-excerpt: Integration with dropbox to provide analytics 
+excerptimage: /pics/dropbox-nodejs.png
+excerpt: Steps to integrate with Dropbox using node.js and generate basic analytics. 
 keywords: "dropbox, analytics, integration, automate"
 ---
 Delighted to integrate with <a href="http://www.dropbox.com">Dropbox</a> API to provide analytics. 
