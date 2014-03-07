@@ -5,4 +5,4 @@ exclude: [command.sh]
 permalink: pretty
 gems:
   - jekyll-redirect-from
-paginate: 5
+paginate: 3
