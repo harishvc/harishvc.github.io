@@ -9,7 +9,7 @@ keywords: "analytics, social media, #AskMeasureLearn"
 ---
 <p>
        <a href="http://shop.oreilly.com/product/0636920026488.do">
-       <img style="float:left; margin:12px;horizontal-align:top" src="http://akamaicovers.oreilly.com/images/9781449336752/cat.gif"/></a>
+       <img style="float:left; margin:12px;horizontal-align:top" src="http://akamaicovers.oreilly.com/images/9781449336752/cat.gif" alt="ask measure learn book"/></a>
        <strong>ASK MEASURE LEARN</strong><br/>
        <i>Using Social Media Analytics to Understand and Influence Customer Behavior</i><br/> 
        <a href="http://www.oreillynet.com/pub/au/5391">Soumitra Dutta</a>, <a href="http://www.oreillynet.com/pub/au/5392">Lutz Finger</a>
@@ -17,7 +17,7 @@ keywords: "analytics, social media, #AskMeasureLearn"
        <br/>Paperback: 338 pages
        <br/>ISBN-10: 1449336752 , ISBN-13: 978-1449336752  
 </p>
-<div style="clear:both"/>
+<div style="clear:both"></div>
 
 
 I first learned about ASK MEASURE LEARN from <a href="http://strataconf.com/strata2014">O'Reilly Strata 2014 (Santa Clara, CA)</a> while watching the audience excitement on social media during Lutz Finger's presentation. 
