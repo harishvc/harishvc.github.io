@@ -2,6 +2,7 @@
 layout: post
 title:  "My blog driven by Github &amp; Jekyll"
 date:   2014-02-05 23:43:49
+excerptimagealt: "Jekyll"
 excerptimage: /pics/jekyll-smallpic.png
 excerpt: Hello Github & Jekyll! 3 things I learned today about Jekyll. 
 keywords: "jekyll,github,blog"

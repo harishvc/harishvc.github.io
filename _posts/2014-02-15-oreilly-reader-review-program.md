@@ -2,6 +2,7 @@
 layout: post
 title:  "O'Reilly Reader Review Program!"
 date:   2014-02-15
+excerptimagealt: "O'Reilly Reader Review Badge"
 excerptimage: http://cdn.oreillystatic.com/bloggers/blogger-review-badge-125.png" border="0" width="125" height="125
 excerpt: I just got approved for the O'Reilly Reader Review Program!  First book on my radar is "ASK MEASURE LEARN"
 keywords: "O'Reilly, Reader Review Program"
