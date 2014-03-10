@@ -13,10 +13,10 @@ keywords: "Harish Chakravarthy,@harishvc,#UX,#DataViz,#Analytics"
   {% for post in paginator.posts %}
     <p>
        <span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a>
-      </br>
-      <img style="float:left; margin:12px;horizontal-align:top" src="{{ post.excerptimage }}"/> {{ post.excerpt }}
+      <br/>
+      <img style="float:left; margin:12px;horizontal-align:top" alt="{{ post.excerptimagealt }}" src="{{ post.excerptimage }}"/> {{ post.excerpt }}
     </p>
-    <div style="clear:both"/><hr/>
+    <div style="clear:both"></div><hr/>
   {% endfor %}
 
 {% if paginator.total_pages > 1 %}
@@ -47,7 +47,7 @@ keywords: "Harish Chakravarthy,@harishvc,#UX,#DataViz,#Analytics"
   
   
   
-  </div>
+</div>
  </div>
 </div>
 </section>
