@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Harish Chakavarthy"
 keywords: harishvc, Harish Chakravarthy, #Analytics, #UX, #Search
 ---
