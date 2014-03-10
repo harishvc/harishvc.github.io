@@ -18,8 +18,8 @@ $('.bxslider').bxSlider({
 </script>
 <div class="slider">
 <ul class="bxslider">
-  <li><img src="/pics/harishvc-maker-badge-2012.jpg"  height="300" title="makerfaire"/></li>
-  <li><img src="/pics/sochi2014-day4-userfrequency.png"  height="300" title="sochi2014 tweet frequency"/></li>
+  <li><img src="/pics/harishvc-maker-badge-2012.jpg"  height="300" title="MakerFaire"/></li>
+  <li><img src="/pics/sochi2014-day4-userfrequency.png"  height="300" title="sochi2014: day 4 tweet frequency"/></li>
   <li><img src="/pics/harishvc-avid-runner-medals.jpg"  height="300" title="run medals"/></li>
   <li><img src="/pics/harishvc-search-lifecycle.jpg"  height="300" title="search lifecycle"/></li>
   <li><img src="/pics/harishvc-300.jpg"  height="300" title="300 miles"/></li>
