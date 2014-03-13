@@ -17,8 +17,8 @@ $('.bxslider').bxSlider({
   });
 </script>
 <div class="slider">
+   Waiting for the image carousel to load ....
 <ul class="bxslider">
-
   <li><img src="https://pbs.twimg.com/media/BeIvALsIgAEw0Gf.jpg"  height="300" title="information and knowledge"/></li>
   <li><img src="/pics/harishvc-maker-badge-2012.jpg"  height="300" title="MakerFaire"/></li>
   <li><img src="/pics/harishvc-300.jpg"  height="300" title="300 miles"/></li>
@@ -33,7 +33,7 @@ $('.bxslider').bxSlider({
 
 <p>
 <img style="float:left; margin:15px" alt="Harish Chakravarthy" src="/pics/harishvc.jpeg"></a>
-Hello! I am Harish Chakravarthy. I am a dad, maker, avid runner, <a href="http://localhost:4000/2014/02/15/oreilly-reader-review-program/">book reviewer for O'Reilly</a> 
+Hello! I am Harish Chakravarthy. I am a dad, <a href="http://en.wikipedia.org/wiki/Maker_culture">maker</a>, avid runner, <a href="http://localhost:4000/2014/02/15/oreilly-reader-review-program/">book reviewer for O'Reilly</a> 
 and an intrapreneur leveraging technology to make a positive difference. Search, User Experience, Data Visualization and Analytics are areas I am passionate about.  
 <br/>
 I have presented in numerous conferences and shared my thoughts as guest speaker 
