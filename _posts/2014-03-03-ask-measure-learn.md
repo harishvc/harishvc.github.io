@@ -6,6 +6,11 @@ excerptimagealt: "ask measure learn book"
 excerptimage: /pics/ask-measure-learn-small-pic.png
 excerpt: Comprehensive primer on understanding big data with extensive collection of references providing a wealth of information and interesting perspectives.
 keywords: "analytics, social media, #AskMeasureLearn"
+tags: 
+- analytics
+- bookreview
+- bigdata
+- askmeasurelearn
 ---
 <p>
        <a href="http://shop.oreilly.com/product/0636920026488.do">

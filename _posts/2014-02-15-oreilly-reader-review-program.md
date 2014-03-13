@@ -6,6 +6,9 @@ excerptimagealt: "O'Reilly Reader Review Badge"
 excerptimage: http://cdn.oreillystatic.com/bloggers/blogger-review-badge-125.png" width="125" height="125
 excerpt: I just got approved for the O'Reilly Reader Review Program!  First book on my radar is "ASK MEASURE LEARN"
 keywords: "O'Reilly, Reader Review Program"
+tag:
+- bookreview
+- oreilly
 ---
 
 <a href="http://oreilly.com/bloggers/?cmp=ex-orm-blgr-harish-chakravarthy"><img alt="I review for the O'Reilly Reader Review Program" src="http://cdn.oreillystatic.com/bloggers/blogger-review-badge-200.png" border="0" width="200" height="150"></a>

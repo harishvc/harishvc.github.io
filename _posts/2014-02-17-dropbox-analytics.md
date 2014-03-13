@@ -6,6 +6,10 @@ excerptimagealt: "dropbox and node.js"
 excerptimage: /pics/dropbox-nodejs.png
 excerpt: Steps to integrate with Dropbox using node.js and generate basic analytics. 
 keywords: "dropbox, analytics, integration, automate"
+tag:
+- analytics
+- dropbox   
+- api       
 ---
 Delighted to integrate with <a href="http://www.dropbox.com">Dropbox</a> API to provide analytics. 
 
