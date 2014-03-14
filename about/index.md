@@ -35,7 +35,7 @@ $('.bxslider').bxSlider({
 Hello! I am Harish Chakravarthy. I am a dad, <a href="http://en.wikipedia.org/wiki/Maker_culture">maker</a>, avid runner, <a href="/2014/02/15/oreilly-reader-review-program/">book reviewer for O'Reilly</a> 
 and an intrapreneur leveraging technology to make a positive difference. Search, User Experience, Data Visualization and Analytics are areas I am passionate about.  
 <br/>
-I have presented in numerous conferences and shared my thoughts as guest speaker 
+I have written articles for <a href="http://www.linuxjournal.com">Linux Journal</a>, presented in numerous conferences and shared my thoughts as guest speaker 
 on numerous topics including <strong>leveraging open source</strong>, <strong>power of simplicity</strong>, <strong>user experience key ingredient for success</strong> 
 and <strong>understanding analytics to make better decisions</strong>. 
 <br/><br/>
