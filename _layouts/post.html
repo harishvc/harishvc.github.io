@@ -9,7 +9,16 @@ layout: default
        <h1>{{ page.title }}</h1>
        <div class="datetime=" style="padding-bottom:15px">{{ page.date | date: "%b %d, %Y" }}</div>
        {% endunless %}
-       <div class="body">{{ content }}</div>
+       <div class="body">
+               {{ content }}
+               <h2>Tags</h2>
+                   <ul class="tag_list">
+                       {% for tag in page.tags %}
+                        <li class="inline archive_list">{{ tag }}</li>
+                       {% endfor %}
+                    </ul>
+        </div>
+       
      </div> <!-- end post -->
     </div> <!-- end span12 -->
  </section> <!-- end row -->
