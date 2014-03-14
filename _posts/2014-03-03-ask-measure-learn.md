@@ -8,6 +8,7 @@ excerpt: Comprehensive primer on understanding big data with extensive collectio
 keywords: "analytics, social media, #AskMeasureLearn"
 tags: 
 - analytics
+- oreilly
 - bookreview
 - bigdata
 - askmeasurelearn

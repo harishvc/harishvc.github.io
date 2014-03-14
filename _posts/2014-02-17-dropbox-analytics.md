@@ -9,7 +9,9 @@ keywords: "dropbox, analytics, integration, automate"
 tag:
 - analytics
 - dropbox   
-- api       
+- api
+- nodejs
+       
 ---
 Delighted to integrate with <a href="http://www.dropbox.com">Dropbox</a> API to provide analytics. 
 
