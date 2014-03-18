@@ -21,7 +21,16 @@ h1, h2, h3, h4, h5, h6,
   }
 }
 
-h1, .h1 {margin-top: @line-height-computed + 65;}
+//http://www.helloerik.com/bootstrap-3-grid-introduction
+h1, .h1 {
+   // set baseline
+   margin-top: @line-height-computed + 80;
+   //less clearance from desktop and large devices
+   @media (min-width:@screen-desktop) {
+   margin-top: @line-height-computed + 65;
+  }
+}
+
 h2, .h2,
 h3, .h3 {
   margin-top: @line-height-computed;
@@ -43,6 +52,11 @@ h6, .h6 {
     font-size: 75%;
   }
 }
+
+//h1, .h1 {
+  //@media (min-width:@screen-xs-min @screen-sm-min) {
+  //margin-top: 150;}
+//}
 
 /*
 h1, .h1 { font-size: @font-size-h1; }
