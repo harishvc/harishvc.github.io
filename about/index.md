@@ -16,7 +16,7 @@ $('.bxslider').bxSlider({
 });
   });
 </script>
-<div class="slider">
+<div class="slider visible-md visible-lg text-success">
 <ul class="bxslider">
   <li><img src="https://pbs.twimg.com/media/BeIvALsIgAEw0Gf.jpg"  height="300" title="information and knowledge"/></li>
   <li><img src="/pics/harishvc-maker-badge-2012.jpg"  height="300" title="MakerFaire"/></li>
@@ -47,4 +47,4 @@ Thanks for stopping by. I hope you found the information you were looking for. I
 
 Cheers
 <br/>
-Harish
+Harish 12345
