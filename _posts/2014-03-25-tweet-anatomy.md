@@ -90,9 +90,5 @@ Ellen's famous selfie tweet at the end of Oscars 2014 had 10 words (3081 bytes o
 <i>More information about the tweet. Was this selfie tweet a retweet? favorite? sensitive? and language</i>
 <br/>
 
-Interesting isn't it? You can learn lot of interesting thing from 3081 bytes. Tweet metadata also contain additional information if the tweet was a retweet or reply. 
-
-Want to try? Join [Twitter Developers](http://dev.twitter.com) and check out [GetTweet](https://github.com/harishvc/tools/tree/master/twitter)
-
-Now it's your turn. What do you think?
+Interesting isn't it? Now it's your turn. What do you think?
 
