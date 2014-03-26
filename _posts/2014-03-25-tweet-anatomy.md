@@ -46,7 +46,7 @@ Ellen's famous selfie tweet at the end of Oscars 2014 had 10 words (3081 bytes o
 51. "statuses_count": 8609,
 52. "lang": "en",
 {% endhighlight %}
-<i>#people following Ellen, #people Ellen follows, when Ellen joined Twiiter, #favourite tweets, verified account, time zone and language preference</i>
+<i>#people following Ellen, #people Ellen is following, when Ellen joined Twitter? #favourite tweets, verified account? time zone and language preference</i>
 <br/>
   
 {% highlight js  %}
