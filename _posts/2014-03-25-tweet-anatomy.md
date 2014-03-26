@@ -1,37 +1,36 @@
 ---
 layout: post
-title:  "Ellen's 3081 byte selfie tweet anatomy"
+title:  "Metadata insights from Ellen's selfie tweet"
 date:   2014-03-25 22:07:49
 excerptimagealt: "twitter"
 excerptimage: https://dev.twitter.com/sites/default/files/images_documentation/bird_blue_48.png
-excerpt: Have you ever wondered about the metadata behind each tweet? Let's take a closer look at Ellen's 3081 byte selfie tweet that has been retweeted and favorited by millions. 
-keywords: "twitter, twitter api, tweet anatomy"
+excerpt: Metadata behind Ellen's history making 10 word selfie tweet is 3,081 bytes and offer interesting insights. Really?
+keywords: "twitter api, tweet anatomy, analytics, ellen selfie"
 tag: 
-- twitter
+- twitter 
 - analytics
 - api
-- anatomy
+- selfie
 ---
-At the heart of Twitter are short messages called tweets. Tweets can express your thoughts quickly and easily. 
-Ellen's famous selfie tweet at the end of Oscars 2014 had 10 words (3081 bytes of metadata) one picture and one hashtag and has been retweeted and favorited by millions.
+Ellen's history making 10 word selfie tweet at the end of Oscars 2014 has been retweeted and favorited by millions. Metadata for Ellen's selfie tweet returned as JSON from Twitter API has 3,081 bytes and provides interesting insights.
 <blockquote class="twitter-tweet" lang="en"><p>If only Bradley&#39;s arm was longer. Best photo ever. <a href="https://twitter.com/search?q=%23oscars&amp;src=hash">#oscars</a> <a href="http://t.co/C9U5NOtGap">pic.twitter.com/C9U5NOtGap</a></p>&mdash; Ellen DeGeneres (@TheEllenShow) <a href="https://twitter.com/TheEllenShow/statuses/440322224407314432">March 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Insights from 3081 bytes
+## Insights from 3,081 bytes
 {% highlight js  %}
 5. "source": "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
 {% endhighlight %}
-<i>The tweet originated from an Andriod device running the official Twitter app</i>
+<i>Where?</i> The tweet originated from an Andriod device running the official Twitter app
 <br/>
-
+<br/>
 {% highlight js  %}
 16. "name": "Ellen DeGeneres",
 17. "screen_name": "TheEllenShow",
 18. "location": "California",
 19. "description": "Comedian, talk show host and ice road trucker. My tweets are real, and they're spectacular.",
 {% endhighlight %}
-<i>Ellen's screen name, location and description</i>
-<br/>
+<i>Who?</i> Ellen's screen name, location and description
+<br/><br/>
 
 {% highlight js  %}
 42. "followers_count": 28117700,
@@ -46,8 +45,8 @@ Ellen's famous selfie tweet at the end of Oscars 2014 had 10 words (3081 bytes o
 51. "statuses_count": 8609,
 52. "lang": "en",
 {% endhighlight %}
-<i>#people following Ellen, #people Ellen is following, when Ellen joined Twitter? #favourite tweets, verified account? time zone and language preference</i>
-<br/>
+<i>Tell me more about Ellen?</i> #people following Ellen, #people Ellen is following, when Ellen joined Twitter? #favourite tweets, verified account? time zone and language preference
+<br/><br/>
   
 {% highlight js  %}
 78. "retweet_count": 3414678,
@@ -59,12 +58,10 @@ Ellen's famous selfie tweet at the end of Oscars 2014 had 10 words (3081 bytes o
 84.        "indices": [
 85.          51,
 86.          58
-87.        ]
-88.      }
-89.  ],
 {% endhighlight %}
-<i>#retweets, #favorites for Ellen's selfie tweet, location and text of the hashtag in the tweet</i>
-<br/>
+<i>How influencial is Ellen's selfie tweet?</i> #retweets & #favorites 
+<br/><i>Direct engagment?</i> location and text of hashtag
+<br/><br/>
 
 {% highlight js  %}
 109. "url": "http:\/\/t.co\/C9U5NOtGap",
@@ -72,14 +69,13 @@ Ellen's famous selfie tweet at the end of Oscars 2014 had 10 words (3081 bytes o
 111. "expanded_url": "http:\/\/twitter.com\/TheEllenShow\/status\/440322224407314432\/photo\/1"
 112. "type": "photo",
 113. "sizes": {
-114.          "medium": {
+114.            "medium": {
 115.            "w": 600,
 116.            "h": 338,
 117.            "resize": "fit"
-118.          },
 {% endhighlight %}
-<i>Image location and various sizes the image is available</i>
-<br/>
+<i>Is there any media?</i> Media type, location and dimension
+<br/><br/>
 
 {% highlight js  %}
 138. "favorited": false,
@@ -87,8 +83,12 @@ Ellen's famous selfie tweet at the end of Oscars 2014 had 10 words (3081 bytes o
 140. "possibly_sensitive": false,
 141. "lang": "en"
 {% endhighlight %}
-<i>More information about the tweet. Was this selfie tweet a retweet? favorite? sensitive? and language</i>
-<br/>
+<i>Tweet type?</i> retweet, favorite, sensitive and language</i>
+<br/><br/>
 
-Interesting isn't it? Now it's your turn. What do you think?
+Interesting isn't it? If you are curious and would like to explore further join [Twitter developers] (http://dev.twitter.com) 
+and take advantage of [GetTweet] (https://github.com/harishvc/tools/tree/master/twitter) a command line tool for fetching metadata.
+
+
+Now it's your turn. What do you think?
 
