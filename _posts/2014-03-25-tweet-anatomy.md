@@ -12,11 +12,11 @@ tag:
 - api
 - selfie
 ---
-Ellen's history making 10 word selfie tweet at the end of Oscars 2014 has been retweeted and favorited by millions. Metadata for Ellen's selfie tweet returned as JSON from Twitter API has 3,081 bytes and provides interesting insights.
+Ellen's history making 10 word selfie tweet at the end of Oscars 2014 has been retweeted and favorited by millions. Metadata for Ellen's selfie tweet returned as JSON from Twitter API had 3,081 bytes<sup>*</sup> and provides interesting insights.
 <blockquote class="twitter-tweet" lang="en"><p>If only Bradley&#39;s arm was longer. Best photo ever. <a href="https://twitter.com/search?q=%23oscars&amp;src=hash">#oscars</a> <a href="http://t.co/C9U5NOtGap">pic.twitter.com/C9U5NOtGap</a></p>&mdash; Ellen DeGeneres (@TheEllenShow) <a href="https://twitter.com/TheEllenShow/statuses/440322224407314432">March 3, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Insights from 3,081 bytes
+## Insights from 3,081 bytes<sup>*</sup>
 {% highlight js  %}
 5. "source": "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
 {% endhighlight %}
@@ -89,6 +89,6 @@ Ellen's history making 10 word selfie tweet at the end of Oscars 2014 has been r
 Interesting isn't it? If you are curious and would like to explore further join [Twitter developers] (http://dev.twitter.com) 
 and take advantage of [GetTweet] (https://github.com/harishvc/tools/tree/master/twitter) a command line tool for fetching metadata.
 
-
 Now it's your turn. What do you think?
 
+<sup>*</sup><i>Metadata size of each tweet is different. While writing this article the metadata size of Ellen's selfie was 3,081 bytes.</i> 
