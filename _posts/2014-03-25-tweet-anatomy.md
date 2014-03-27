@@ -86,9 +86,21 @@ Ellen's history making 10 word selfie tweet at the end of Oscars 2014 has been r
 <i>Tweet type?</i> retweet, favorite, sensitive and language</i>
 <br/><br/>
 
-Interesting isn't it? If you are curious and would like to explore further join [Twitter developers] (http://dev.twitter.com) 
-and take advantage of [GetTweet] (https://github.com/harishvc/tools/tree/master/twitter) a command line tool for fetching metadata.
-
-Now it's your turn. What do you think?
+Interesting isn't it? If you are curious and would like to explore further below are related links. Now it's your turn. What do you think?
 
 <sup>*</sup><i>Metadata size of each tweet is different. While writing this article the metadata size of Ellen's selfie was 3,081 bytes.</i> 
+
+### Inspiration
+Few months ago I participated in O'Reilly webcast presented by author [Matthew Russell](http://miningthesocialweb.com). Matthew provided interesting prespectives about metadata, data mining and Twitter. 
+I had a few aha! moments during the webcast. The webcast got me thinking - motivated me to understand Tweet metadata and eventually develop [Twitter Stream Analytics]  
+(https://github.com/harishvc/twitter-stream-analytics).  
+ 
+### Related Links
+1. [Twitter developers] (http://dev.twitter.com)      
+2. [GetTweet - command line tool for fetching metadata] (https://github.com/harishvc/tools/tree/master/twitter)
+3. [JSON metadata for Ellen's selfie tweet] (https://github.com/harishvc/tools/blob/master/twitter/440322224407314432.json)
+4. [Formatted JSON metadata for Ellen's selfie tweet] (https://github.com/harishvc/tools/blob/master/twitter/440322224407314432-pretty.json)
+5. [Matthew Russell's blog post "Why Is Twitter All the Rage?"] (http://miningthesocialweb.com/2013/10/09/why-is-twitter-all-the-rage/)
+6. [Twitter Stream Analytics - node.js, mongoDB & d3 web app for generating real-time analytics from Twitter Streaming API] (https://github.com/harishvc/twitter-stream-analytics)
+
+
