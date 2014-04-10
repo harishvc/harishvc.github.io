@@ -4,7 +4,7 @@ title:  "Metadata insights from Ellen's selfie tweet"
 date:   2014-03-25 22:07:49
 excerptimagealt: "twitter"
 excerptimage: https://dev.twitter.com/sites/default/files/images_documentation/bird_blue_48.png
-excerpt: Metadata behind Ellen's history making 10 word selfie tweet is 3,081 bytes and offers interesting insights. Let's take a closer look at the metadata.
+excerpt: Metadata behind Ellen's history making 10 word selfie tweet is 3,081 bytes. Let's take a closer look at the metadata.
 keywords: "twitter api, tweet anatomy, analytics, ellen selfie"
 tag: 
 - twitter 
