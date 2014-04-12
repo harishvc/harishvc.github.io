@@ -1,3 +1,7 @@
-_site
+#_site
 command.sh
 *DELETE*
+*ARCHIVE*
+*_site*
+*tag*
+*.metadata*
