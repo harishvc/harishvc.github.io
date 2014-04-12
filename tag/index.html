@@ -4,10 +4,10 @@ title  : Tag Cloud
 ---
 
 <!-- Source: http://enrmarc.github.io/blog/Jekyll-tagcloud/ -->
+<h1 style="margin-top:75px;margin-left:10px">Tag Cloud</h1>
 <div class="container tags">
    <div class="row-fluid">
-      <div class="tag-cloud">
-         <h1 style="margin-top:25px">Tag Cloud</h1>
+      <div class="tag-cloud" style="margin-left:10px">
          {% for tag in site.tags %}
             <a href="#posts-tag" id="{{ forloop.index }}" class="__tag" style="margin: 5px">{{ tag[0] }}</a>
             <ul id="list_{{ forloop.index }}" style="display:none;">
