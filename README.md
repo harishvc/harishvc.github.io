@@ -1,4 +1,4 @@
-# Jekyll driven code repository driving http://harishvc.github.io
+# Code repository driving http://harishvc.com
 
 Credits & Reference
 * http://jekyllrb.com/ 
