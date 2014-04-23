@@ -33,7 +33,7 @@ Authors of the book offer a comprehensive primer on understanding big data with 
 I am also impressed with the extensive collection of references providing a wealth of information and interesting perspectives (see my tweets below). 
 The Appendix provides a comprehensive collection of relevant and up-to-date resources for further reading.
 
-As a self-taught <a href="/2014/02/10/sochi2014-day4/">data analyst</a> I now have a better awareness of big data and the right set of questions 
+As a self-taught, big data beginner I now have a better awareness of big data and the right set of questions 
 to ask in addition to surrounding complexities. I was sharing my notes as I was reading. Below are my tweets.
 
 <blockquote class="twitter-tweet" lang="en"><p>&quot;61.5% of all internet traffic is nonhuman&quot; <a href="https://twitter.com/search?q=%23AskMeasureLearn&amp;src=hash">#AskMeasureLearn</a> <a href="http://t.co/DUk5GbWWjg">pic.twitter.com/DUk5GbWWjg</a></p>&mdash; Harish Chakravarthy (@harishvc) <a href="https://twitter.com/harishvc/statuses/439981678917083136">March 2, 2014</a></blockquote>
