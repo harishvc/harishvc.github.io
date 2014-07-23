@@ -4,7 +4,7 @@ title:  "Visualizing Twitter Friends"
 date:   2014-07-22 23:07:42
 excerptimagealt: "twitter"
 excerptimage: https://dev.twitter.com/sites/default/files/images_documentation/bird_blue_48.png
-excerpt: When did your friends joined Twitter? You can create a visual timeline using Twitter API. Let's take a closer look.
+excerpt: When did your friends join Twitter? Generating a visual timeline using Node.js &amp; vis.js 
 keywords: "twitter, twitter api, visualizing"
 tag: 
 - twitter 
