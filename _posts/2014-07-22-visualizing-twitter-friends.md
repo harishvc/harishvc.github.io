@@ -11,13 +11,15 @@ tag:
 - api
 - dataviz
 ---
-I configured <a href="https://github.com/twitterdev/sample-node-visualizations">Sample Node Visualization</a> GitHub repository to generate 
+I configured <a href="https://github.com/twitterdev/sample-node-visualizations">Sample Node Visualization</a> to generate 
 an awesome visual timeline of my Twitter friends. 
 
 <img src="/pics/harishvc-friends.png" width="850"/>
 
+##Related Links
+1. <a href="https://blog.twitter.com/2014/visualizing-your-twitter-conversations">Visualizing your Twitter conversations</a>
+2. <a href="http://visjs.org">vis.js</a>
+3. <a href="http://nodejs.org">Node.js</a>
 
-<a href="https://blog.twitter.com/2014/visualizing-your-twitter-conversations">Visualizing your Twitter conversations</a> blog post on Twitter developer 
-Blog provides more information.
 
 
