@@ -11,7 +11,7 @@ tag:
 - api
 - dataviz
 ---
-Configure<a href="https://github.com/twitterdev/sample-node-visualizations">Sample Node Visualization</a> to generate 
+Configure <a href="https://github.com/twitterdev/sample-node-visualizations">Sample Node Visualization</a> to generate 
 a visual timeline of Twitter friends. 
 
 <img src="/pics/harishvc-friends.png" width="850"/>
