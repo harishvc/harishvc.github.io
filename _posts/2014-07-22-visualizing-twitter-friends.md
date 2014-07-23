@@ -12,10 +12,12 @@ tag:
 - dataviz
 ---
 I configured <a href="https://github.com/twitterdev/sample-node-visualizations">Sample Node Visualization</a> GitHub repository to generate 
-an awesome visual timeline of my Twitter friends. Also check out
-<a href="https://blog.twitter.com/2014/visualizing-your-twitter-conversations">Visualizing your Twitter conversations</a> blog post on Twitter developer 
-Blog for more information.
+an awesome visual timeline of my Twitter friends. 
 
 <img src="/pics/harishvc-friends.png" width="850"/>
+
+
+<a href="https://blog.twitter.com/2014/visualizing-your-twitter-conversations">Visualizing your Twitter conversations</a> blog post on Twitter developer 
+Blog provides more information.
 
 
