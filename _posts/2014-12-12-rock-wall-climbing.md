@@ -16,5 +16,5 @@ tag:
 decision making, thinking on your feet while balancing yourself - an awesome sport that works the mind and the body. Rock wall climbing is 
 physically and mentally demanding. Strength, endurance and agility are key ingredients for finishing strong. Rock wall climbing reinforced 
 for me 3 simple powerful lessons. [My story on LinkedIn](http://t.co/ExzJ4x0RO8)
-
+<p style="clear:both"/>
 
