@@ -32,7 +32,12 @@
      </script>
   <!-- Include Twitter Analytics -->
   <meta property="twitter:account_id" content="190820631" />
-  
+
+  {% if page.cheader %}
+   <!-- Include customer scripts -->
+     {{ page.cheader }}
+  {% endif %}
+
   </head>
 
   <body role="document">
