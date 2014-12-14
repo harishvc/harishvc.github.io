@@ -60,6 +60,6 @@ I had a few aha! moments during the webcast. The webcast got me thinking - motiv
 4. [Formatted JSON metadata for Ellen's selfie tweet] (https://github.com/harishvc/tools/blob/master/twitter/440322224407314432-pretty.json)
 5. [Matthew Russell's blog post "Why Is Twitter All the Rage?"] (http://miningthesocialweb.com/2013/10/09/why-is-twitter-all-the-rage/)
 6. [Twitter Stream Analytics - node.js, mongoDB & d3 web app for generating real-time analytics from Twitter Streaming API] (https://github.com/harishvc/twitter-stream-analytics)
-
+7. [How to use gist-embed to spice up code snippets on your blog] (https://github.com/blairvanderhoof/gist-embed)
 
 
