@@ -63,9 +63,12 @@ Scalable-vector-icons from [Font Awesome](http://http://fontawesome.io/) are use
 ![pre-defined questions](/pics/askgithub-questions.png)
 <p class="text-success">Example 2: Top new repositories</p>
 ![pre-defined questions](/pics/askgithub-top-new-repos.png)
-<p class="text-success">Example 3: Suggestion</p>
+<p class="text-success">Example 3: User commit frequency</p>
+![pre-defined questions](/pics/askgithub-commit-frequency.png)
+<p class="text-success">Example 4: Suggestion</p>
 ![pre-defined questions](/pics/askgithub-suggestion.png)
 
 ## Roadmap
 Automate recommendation engine using [Neo4j](http://neo4j.com) and continue to keep interating. 
 
+askgithub-commit-frequency.png
