@@ -17,11 +17,10 @@ tag:
 - flask
 ---
 
-With a growing number of public GitHub events, [Ask GitHub] (http://askgithub.com) search results had to be displayed in multiple pages to improve 
-the user experience and provide relevant information. Using [flask-paginate](http://flask-paginate.readthedocs.org/en/latest/), pagination extension for flask and rewriting
-MongoDB queries I implemented pagination! 
+With a growing number of public GitHub events, [Ask GitHub] (http://askgithub.com) search results had to be displayed in multiple pages.
+Using [flask-paginate](http://flask-paginate.readthedocs.org/en/latest/), a pagination extension for flask implemenation pagination is a snap! 
 
-Below are steps and my notes. Feedback welcome! 
+Below are the steps and my notes. Feedback welcome! 
 
 ##Step 1: Install flask-paginate
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="8" data-gist-hide-footer="true"></code>
@@ -43,6 +42,8 @@ Below are steps and my notes. Feedback welcome!
 
 ##Step 7: MongoDB queries to handle pagination
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="82-92" data-gist-hide-footer="true"></code>
+I had to rewrite ```aggregate``` function to create an array to latter ```unwind``` for finding numbers of rows returned for a specific query.
+```skip``` lets you skip over earlier search results and ```limit``` limits returned rows. 
 
 ##Example
 ![example](/pics/pagination-flask-2.png)
