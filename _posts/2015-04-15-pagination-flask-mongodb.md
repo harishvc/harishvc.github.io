@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Using Flask plugin &amp; MongoDB to add pagination of  search results"
+title:  "Using Flask &amp; MongoDB to add pagination"
 date:   2015-04-15
 excerptimagealt: "pagination of search results"
 excerptimage: /pics/pagination-flask-1.png
 excerpt: With a growing number of public GitHub events, search results had to be displayed in multiple pages. 
-         Using flask plugin and minor  rewrite of MongoDB queries I implemented pagination!
+         Using a flask plugin and rewrite of MongoDB queries I implemented pagination!
 cheader: <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
          <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gist-embed/2.0/gist-embed.min.js"></script> 
 
@@ -18,7 +18,7 @@ tag:
 ---
 
 With a growing number of public GitHub events, [Ask GitHub] (http://askgithub.com) search results had to be displayed in multiple pages.
-Using [flask-paginate](http://flask-paginate.readthedocs.org/en/latest/), a pagination extension for flask implemenation pagination is a snap! 
+Using [flask-paginate](http://flask-paginate.readthedocs.org/en/latest/), a pagination extension for flask, implemenation pagination is a snap! 
 
 Below are the steps and my notes. Feedback welcome! 
 
