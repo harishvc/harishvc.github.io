@@ -4,7 +4,7 @@ title:  "Insights from GitHub public timeline using Neo4j"
 date:   2015-04-17
 excerptimagealt: "neo4j relationship of repository"
 excerptimage: /pics/neo4j-1.png
-excerpt: Insights from GitHub public timeline using Neo4j that won the 2015 Neo4j Winter Challenge in 
+excerpt: Insights from GitHub public timeline using Neo4j won the 2015 Neo4j Winter Challenge in 
          the "Creative Graph Search and Insights" category!
 cheader: <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
          <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gist-embed/2.0/gist-embed.min.js"></script> 
