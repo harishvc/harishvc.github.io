@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speaking at Ignite? 5 steps for an awesome presentation"
+title:  "Speaking at Ignite? 5 steps for delivering an awesome presentation"
 date:   2015-04-20
 excerptimagealt: "ignite logo"
 excerptimage: /pics/ignite_logo.gif
