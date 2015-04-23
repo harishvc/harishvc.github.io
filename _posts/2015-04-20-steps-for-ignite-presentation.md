@@ -16,7 +16,7 @@ Congrats! Your submission got accepted at Ignite. Pat yourself on the back.
 Each ignite presentation is 5 minutes long and slides advance every 15 seconds automatically (speedy presentations). 
 This presentation format makes Ignite unique and challenging. 
 
-I presented at Ignite, Fluent in San Francisco. My first Ignite presentation. I am sharing my process to hopefully help Ignite presenters. 
+I presented at [Ignite, Fluent in San Francisco](http://fluentconf.com/javascript-html-2015/public/schedule/detail/40114). My first Ignite presentation. I am sharing my process to hopefully help Ignite presenters. 
 Perspectives welcome.
 <p style="clear:both"/>
 
