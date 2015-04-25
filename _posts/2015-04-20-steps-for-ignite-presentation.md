@@ -5,7 +5,7 @@ date:   2015-04-20
 excerptimagealt: "ignite logo"
 excerptimage: /pics/ignite_logo.gif
 excerpt: Congrats! Your submission got accepted at Ignite. Pat yourself on the back.
-         Each ignite presentation is 5 minutes long and slides advance every 15 seconds automatically (speedy presentations).
+         Ignite presentations are 5 minutes long and slide advances every 15 seconds automatically (speedy presentations).
          This presentation style makes Ignite unique and challenging. 
 tag:
 - ignite
@@ -13,7 +13,7 @@ tag:
 ---
 <img src="/pics/harishvc-ignite-fluent-2015.jpg" height="215" align="left" hspace="25" vspace="13" alt="Harish Chakravarthy, Ignite 2015"/>
 Congrats! Your submission got accepted at Ignite. Pat yourself on the back. 
-Each ignite presentation is 5 minutes long and slides advance every 15 seconds automatically (speedy presentations). 
+Ignite presentations are 5 minutes long and slide advances every 15 seconds automatically (speedy presentations). 
 This presentation format makes Ignite unique and challenging. 
 
 I presented at [Ignite, Fluent in San Francisco](http://fluentconf.com/javascript-html-2015/public/schedule/detail/40114). My first Ignite presentation. I am sharing my process to hopefully help Ignite presenters. 
