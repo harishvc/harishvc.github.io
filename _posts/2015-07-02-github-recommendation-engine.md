@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Making recommendations from GitHub public timeline using Neo4j"
+title:  "Simple recommendation engine using Neo4j"
 date:   2015-07-02
 excerptimagealt: "nosql"
 excerptimage: /pics/find-similar-repositories.png
