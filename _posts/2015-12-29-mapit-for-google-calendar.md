@@ -66,7 +66,7 @@ Interested in further reading? Check out [Gabe Berke-Williams Chrome extension t
 * line 8: Check if active tab is Google Calendar (view=active)
 * line 9: Send a message to `content.js` to `start`
 
-##6. Handle user interaction - events are added or removed
+##6. Handle user interaction - events are added, removed or modified
 <script src="https://gist.github.com/harishvc/eac4094c2d395d9863d7.js"></script>  
 * line 3: Add alarm to trigger every 2 minutes
 * line 17: Add listener on the alarm
