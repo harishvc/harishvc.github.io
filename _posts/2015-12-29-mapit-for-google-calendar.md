@@ -4,7 +4,7 @@ title:  "MapIt for Google Calendar (A Chrome extension)"
 date:   2015-12-29
 excerptimagealt: "chrome"
 excerptimage: /pics/mapit-install.png
-excerpt: MapIt automatically wraps event location with a Google Map hyperlink and <strong>saves a click!</stong>. This blog post deep dives into
+excerpt: MapIt automatically wraps event location with a Google Map hyperlink and saves a click!. This blog post deep dives into
          developing  a Chrome extension for Google Calendar.
 tag:
 - google
