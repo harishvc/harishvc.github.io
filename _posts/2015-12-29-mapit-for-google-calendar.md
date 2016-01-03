@@ -4,15 +4,18 @@ title:  "MapIt for Google Calendar (A Chrome extension)"
 date:   2015-12-29
 excerptimagealt: "chrome"
 excerptimage: /pics/mapit-install.png
-excerpt: MapIt automatically wraps event location with a Google Map hyperlink and saves a click!. This blog post deep dives into
-         developing  a Chrome extension for Google Calendar.
+excerpt: MapIt automatically wraps event location with a Google Map hyperlink and saves a click!. This blog post deep dives into developing a Chrome extension for Google Calendar.
 tag:
 - google
 - chrome extension
 ---
 
 <img src="/pics/mapit-install.png" align="left" hspace="25" vspace="15" />
-Last month I challenged myself to improve my productivity - start reducing the number of clicks! Earlier today I launched MapIt, a Chrome extension that automatically wraps event location with a Google Map hyperlink and saves a click! [Install MapIt](https://chrome.google.com/webstore/detail/mapit-for-google-calendar/gnmohhffhadlkilikphnibfhelellaih?hl=en-US&gl=US)
+Last month I challenged myself to improve my productivity - start reducing the number of clicks! Earlier today I launched MapIt, a Chrome extension that automatically wraps event location with a Google Map hyperlink and saves a click! 
+
+#Interested?
+* <a href="https://chrome.google.com/webstore/detail/mapit-for-google-calendar/gnmohhffhadlkilikphnibfhelellaih?hl=en-US&gl=US)">Install MapIt<img src="/pics/ChromeWebStore_Badge.png" alt="Install MapIt from Chrome Web Store"/></a>  
+* [Code on GitHub](https://github.com/harishvc/chrome-extension-examples/tree/master/mapit-google-calendar)
 
 This blog post deep dives into developing a Chrome extension for Google Calendar.
 
@@ -53,8 +56,8 @@ Interested in further reading? Check out [Gabe Berke-Williams Chrome extension t
 ## 3. content.js is a JavaScript file that runs in the context of Google Calendar (view=Agenda)  
 <script src="https://gist.github.com/harishvc/ed7d1affdb1d43277632.js"></script>
 * line 3: Wait for `start` message from `background.js` 
-* line 11-22: Find all locations by class `lv-location` and add innerHTML
-
+* line 11-24: Find all locations by class `lv-location` and add innerHTML
+* line 17: URIencode special characters, handle () and replace %20 with space
 
 ##4. Handle user interaction - Browser resize
 <script src="https://gist.github.com/harishvc/539bbb15a74a5e14b675.js"></script>
@@ -82,9 +85,8 @@ Interested in further reading? Check out [Gabe Berke-Williams Chrome extension t
 
 
 #Interested?
+* <a href="https://chrome.google.com/webstore/detail/mapit-for-google-calendar/gnmohhffhadlkilikphnibfhelellaih?hl=en-US&gl=US)">Install MapIt<img src="/pics/ChromeWebStore_Badge.png" alt="Install MapIt from Chrome Web Store"/></a>  
 * [Code on GitHub](https://github.com/harishvc/chrome-extension-examples/tree/master/mapit-google-calendar)
-* [Install MapIt on Chrome Browser](https://chrome.google.com/webstore/detail/mapit-for-google-calendar/gnmohhffhadlkilikphnibfhelellaih?hl=en-US&gl=US)
-
 
 
 
