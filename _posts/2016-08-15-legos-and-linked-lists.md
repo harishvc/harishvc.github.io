@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Legos & Linked List"
-date:   2016-8-15
-excerptimagealt: "legos and linked list"
-excerptimage: /pics/lego-linked-list.jpg
-excerpt: Linked list and Legos share a few interesting common features. Lego blocks can be rearranged to build interesting shapes. Linked lists
-can be rearranged to build interesting data structures to solve interesting problems. Let's deep dive!
+title:  "Lego & Linked List"
+date:   2016-08-15
+excerptimagealt: "lego and linked list"  
+excerptimage: /pics/lego-linked-list.jpg  
+excerpt: Linked list and Lego share an interesting common feature - Lego blocks and Linked lists can be rearranged to build interesting shaped to solve interesting problems. Let's deep dive!  
 cheader: <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
          <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/gist-embed/2.0/gist-embed.min.js"></script> 
 
