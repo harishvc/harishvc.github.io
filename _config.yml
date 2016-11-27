@@ -1,5 +1,8 @@
+#Jekyll configuration
 tagline: "Connecting Ideas &amp; Getting Creative"
-pygments: true
+#pygments: true
+markdown: kramdown  
+highlighter: rouge  
 exclude: [command.sh]
 permalink: pretty
 gems:
