@@ -35,11 +35,16 @@ image source: wikimedia.org
 The name 'LEGO' is an abbreviation of the two Danish words "leg godt", meaning "play well". The LEGO brick in its present form was launched in 1958. The interlocking principle with its tubes makes it unique and offers unlimited building possibilities. 
 
 
-Ability to add and modify existing shapes (data structures) to build interesting shapes (data structures) to solve interesting problems is a common feature of Lego and Linked list. Let's deep dive
+**Ability to add and modify existing shapes (data structures) to build interesting shapes (data structures) to solve interesting problems is a common feature of Lego and Linked list.**
 
-### Simple problems
+### Linked List problems
 
-
+* [Find the middle element in a linked list](https://github.com/harishvc/challenges/blob/master/linked-list-middle-element.py)  
+* [Delete a node in the linked list](https://github.com/harishvc/challenges/blob/master/linked-list-delete-node.py)  
+* [Zip a linked list](https://github.com/harishvc/challenges/blob/master/linked-list-zip.py)
+* [Reverse a linked list](https://github.com/harishvc/challenges/blob/master/linked-list-reverse.py)  
+ 
 
 ## Related Articles  
-* [Linked Lists](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
+* [Linked List Problems](https://github.com/harishvc/challenges#linked-lists)
+* [Linked List Lecture Notes@CMU](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Linked%20Lists/linked%20lists.html)
