@@ -27,6 +27,20 @@ A Linked list is a **linear dynamic data structure** where each node is a separa
   *  Node(s) can be removed from the head, tail or anywhere in the Linked list  
   *  Node(s) can be rearranged on the Linked list  
 
+### Linked List Advantages
+
+  * Nodes can be added and removed - memory allocation and deallocation while program is running!
+  * Insert and delete node(s) can be easily performed
+  * Ideal data structure if size is not known ahead , nodes can grow and shink
+  * Stack and queue can be implemented using Linked list
+
+
+### Linked List Disadvantages
+
+ * Linked List use more memory than **list** since **next** pointer uses storage
+ * Sequential access from the start - the average and worst case time complexity to find a node is O(n)  
+ * Additional code complexity
+
 ## Lego
 
 ![legos and linked list](/pics/lego-linked-list.jpg)   
@@ -40,10 +54,11 @@ The name 'LEGO' is an abbreviation of the two Danish words "leg godt", meaning "
 ### Linked List problems
 
 * [Find the middle element in a linked list](https://github.com/harishvc/challenges/blob/master/linked-list-middle-element.py)  
+* [Find the nth node from the end of a linked list](https://github.com/harishvc/challenges/blob/master/find-nth-node-from-the-end-in-a-single-linked-list.py)
 * [Delete a node in the linked list](https://github.com/harishvc/challenges/blob/master/linked-list-delete-node.py)  
 * [Zip a linked list](https://github.com/harishvc/challenges/blob/master/linked-list-zip.py)
 * [Reverse a linked list](https://github.com/harishvc/challenges/blob/master/linked-list-reverse.py)  
- 
+* [Skip list](https://kunigami.blog/2012/09/25/skip-lists-in-python/)    
 
 ## Related Articles  
 * [Linked List Problems](https://github.com/harishvc/challenges#linked-lists)
