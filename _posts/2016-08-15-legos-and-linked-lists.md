@@ -18,6 +18,7 @@ tag:
 ![legos and linked list](/pics/linked-list.png)
 
 A Linked list is a **linear dynamic data structure** where each node is a separate object  
+
   *  Each node is comprised of two items - data and a reference to the next node   
   *  The last node has a reference to `None (null)`.   
   *  The entry point into a Linked list is called `Head` - reference to the first node    
