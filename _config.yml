@@ -1,5 +1,6 @@
 tagline: "Connecting Ideas &amp; Getting Creative"
-highlighter: false
+markdown: redcarpet
+pygments: true
 exclude: [command.sh]
 permalink: pretty
 gems:
