@@ -1,5 +1,4 @@
 tagline: "Connecting Ideas &amp; Getting Creative"
-markdown: redcarpet
 pygments: true
 exclude: [command.sh]
 permalink: pretty
