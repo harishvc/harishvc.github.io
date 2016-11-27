@@ -17,14 +17,14 @@ tag:
 
 ![legos and linked list](/pics/linked-list.png)
 
-A Linked list is a **linear dynamic data structure** where each node is a separate object.  
-  * Each node is comprised of two items - data and a reference to the next node
-  * The last node has a reference to `None (null)`. 
-  * The entry point into a Linked list is called `Head` - reference to the first node
-  * If the list is empty then the head is a `null` reference.
-  * New node(s) can be **created** and then added to the head, tail or anywhere in the Linked list
-  * Node(s) can be removed from the head, tail or anywhere in the Linked list
-  * Node(s) can be rearranged on the Linked list  
+A Linked list is a **linear dynamic data structure** where each node is a separate object  
+  *  Each node is comprised of two items - data and a reference to the next node   
+  *  The last node has a reference to `None (null)`.   
+  *  The entry point into a Linked list is called `Head` - reference to the first node    
+  *  If the list is empty then the head is a `null` reference    
+  *  New node(s) can be **created** and then added to the head, tail or anywhere in the Linked list  
+  *  Node(s) can be removed from the head, tail or anywhere in the Linked list  
+  *  Node(s) can be rearranged on the Linked list  
 
 ## Lego
 
