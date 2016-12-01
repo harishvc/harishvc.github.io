@@ -33,10 +33,10 @@ This blog post deep dives into the Continuous Integration (CI) and Continuous De
 > *"Continuous deployment can be thought of as an extension of continuous integration, aiming at minimizing lead time, the time elapsed between development writing one new line of code and this new code being used by live users, in production."* Source [Agile Alliance](http://guide.agilealliance.org/guide/cd.html)
 
 
-##Architecture
+## Architecture
 ![Architecture with GitHub, Travis CI, Sauce Labs and Heroku](/pics/CI-flowchart.png)
 
-##Workflow
+## Workflow
 1. Developers are pushing code changes to GitHub  
 2. Application is built and deployed on **a fresh staging environment** by Travis CI  
 3. Selenium test cases are run remotely on **a fresh instance with developer defined OS & browser** by Sauce Labs  
@@ -44,7 +44,7 @@ This blog post deep dives into the Continuous Integration (CI) and Continuous De
 5. If all the test cases pass the code is automatically deployed on Heroku  
 
 
-##Check List
+## Check List
 * Code on GitHub **public repository**
   - *Additional steps are required for private repository*
 * Create a [Travis CI account](https://travis-ci.org/) (you can use your GitHub account)  
@@ -55,7 +55,7 @@ This blog post deep dives into the Continuous Integration (CI) and Continuous De
 * run `travis setup heroku` to generate the `api_key` for ```.travis.yml```
 * Selenium test script with test cases  
 
-##Step 1:
+## Step 1:
 * Add ```.travis.yml``` file at the root of your repository to tell Travis CI what to build
 * [AskGitHub .travis.yml](https://github.com/harishvc/githubanalytics/blob/master/.travis.yml)
 * ```.travis.yml```  
@@ -70,7 +70,7 @@ This blog post deep dives into the Continuous Integration (CI) and Continuous De
   - Lines 16-18: Rule to build and test only on `master` branch
   - Lines 19-23: Steps to deploy on Heroku after test pass
 
-##Step 2:
+## Step 2:
 * Configure Selenium test script to work remotely on Sauce Labs VM
 * [AskGitHub travis-testcases.py](https://github.com/harishvc/githubanalytics/blob/master/test/travis-testcases.py)
 * `travis-testcases.py`
@@ -88,7 +88,7 @@ This blog post deep dives into the Continuous Integration (CI) and Continuous De
       - Line 71: **Update test result status**. Status of the test result determines if the build is deployed! 
 * Add badges to ```README.md```
 
-##Step 3:
+## Step 3:
 * Login to Travis CI 
 * Add you GitHub repository
 * Set environment variables for your repository
@@ -96,11 +96,11 @@ This blog post deep dives into the Continuous Integration (CI) and Continuous De
   - `SauceAccessKey`
   - `PORT`
 
-##Step 4:
+## Step 4:
 * Commit ```.travis.yml``` and ```travis-testcases.py``` to GitHub
   
 
-##Step 5:
+## Step 5:
 * Visit Travis-CI and select your repository
   - watch the build and test log
 ![Travis-CI dashboard](/pics/travis-dashboard.png)
@@ -112,12 +112,12 @@ This blog post deep dives into the Continuous Integration (CI) and Continuous De
 * Visit ```README.md``` to view the status of test cases  
 ![build passing](/pics/build-passing.png)
 
-##Observations
+## Observations
 * Travis-CI provide **fresh staging environment** with hooks to test and deploy
 * Sauce Labs comes to the rescue when you need to test on real browsers
 
 
-##Related Articles
+## Related Articles
 * [Testing in a real browser with Sauce Labs with Travis CI](http://samsaccone.com/posts/testing-with-travis-and-sauce-labs.html)
 * [Travis CI & Heroku](https://blog.travis-ci.com/2013-07-09-introducing-continuous-deployment-to-heroku/)
 * [Continuous Deployment](http://guide.agilealliance.org/guide/cd.html)
