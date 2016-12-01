@@ -49,7 +49,7 @@ image source: wikimedia.org
 The name 'LEGO' is an abbreviation of the two Danish words "leg godt", meaning "play well". The LEGO brick in its present form was launched in 1958. The interlocking principle with its tubes makes it unique and offers unlimited building possibilities. 
 
 
-Interesting isn't it? Ability to add and modify existing shapes (data structures) to build interesting shapes (data structures) to solve interesting problems is a common feature of Lego and Linked list.**
+** Interesting isn't it? Ability to add and modify existing shapes (data structures) to build interesting shapes (data structures) to solve interesting problems is a common feature of Lego and Linked list. **
 
 ### Linked List problems
 
