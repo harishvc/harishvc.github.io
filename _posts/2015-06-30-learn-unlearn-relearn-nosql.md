@@ -17,7 +17,7 @@ tag:
 I started working on [Ask GitHub](http://askgithub.com) few months ago to search latest GitHub public timeline to answer questions and identify basic insights. Along the way I wanted to <strong>learn</strong> and experiment with new technologies.
 
 <img src="http://dev.assets.neo4j.com.s3.amazonaws.com/wp-content/uploads/polyglot-persistence-wanderu-neo4j-mongodb-300x200.jpg" align="left" hspace="25" vspace="13" />
-##The Technical Challenge & Solution
+## The Technical Challenge & Solution
 During a 24 hour period the GitHub public timeline on average includes 500K commits, 25K new repositories, 30K starred repositories, 
 100k contributors, adding up to more than 1GB of data. Storing and accessing this data is vital. What are my options?
 
@@ -29,24 +29,24 @@ NoSQL data storage solutions provide [Ask GitHub](http://askgithub.com) searches
 [Ask GitHub](http://askgithub.com) is driven by [Compose.io](http://compose.io) (MongoDB hosting) & [GrapheneDB](http://graphenedb.com) (Neo4j hosting)
 
 
-##Shift in Mindset
+## Shift in Mindset
 Learning to code for a NoSQL databases requires a shift in mindshift - <strong>unlearn</strong> the traditional relational databases driven 
 by several tables, keys and join  and <strong>relearn</strong> about storing data as documents and writing aggregation operations to process the data for MongoDB, 
 creating nodes and building relations between nodes for Neo4j. <i>It took me a few days to unlearn and relearn.</i> 
 
 
-##MongoDB
+## MongoDB
 Aggregate operation to find trending repositories based on stargazers. Code in Python.
 <code data-gist-id="2ae4de25bfa75e5bd680" data-gist-line="2-9" data-gist-hide-footer="true"></code>
- *  ```match``` for ```type``` ```WatchEvent```  
- *  Result is grouped by ```full_name``` and counted as ```stars```  
- *  Result is sorted by ```stars``` in decending order  
- *  Result is then limited to 10  
+* ```match``` for ```type``` ```WatchEvent```  
+* Result is grouped by ```full_name``` and counted as ```stars```  
+* Result is sorted by ```stars``` in decending order  
+* Result is then limited to 10  
 
 <i>Do you see the simplicity and power of the aggregation operation?</i>
 
 
-##Neo4j
+## Neo4j
 Cypher to count repositories that have a relation with an organization. Code in Python.
 <code data-gist-id="2ae4de25bfa75e5bd680" data-gist-line="12-13" data-gist-hide-footer="true"></code>
 
@@ -56,5 +56,5 @@ Here the cypher matches nodes of type ```Repository``` that have a relation with
 <i>Do you see the simplicity and power of cypher?</i>
 
  
-##Related Articles
+## Related Articles
 * [Introduction to NoSQL by Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
