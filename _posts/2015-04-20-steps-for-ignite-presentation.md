@@ -22,12 +22,12 @@ My first Ignite presentation. I am sharing my process to hopefully help Ignite p
 
 <p style="clear:both"/>
 
-#Step 1: Ground Work
+# Step 1: Ground Work
 Gather as much information as possible before getting started. 
 Some of the questions include presentation format (example: power point)?, due date?, multimedia?, rehearsal time? contact person? 
 Usually these questions are answered in the acceptance email.
 
-#Step 2: Write your presentation down
+# Step 2: Write your presentation down
 *  Write your entire presentation down in a text editor or something similar, don’t worry about formatting 
 *  Write <b>full sentances</b>. Example: I am here to share my story that made a difference personally & professionally 
 *  Break your story into smaller paragraphs
@@ -35,7 +35,7 @@ Usually these questions are answered in the acceptance email.
 *  Practice your presentation until you feel comfortable covering your entire presentation in 5 minutes
 
 
-#Step 3: Start working on your slides
+# Step 3: Start working on your slides
 *  Capture your presentation material in your slide
 *  Use images to convey your message as much as possible - 15 seconds is too short to read everything on the slide
 *  Provide credit for your image (check copyright). If you have people in your image, please check with them first
@@ -44,7 +44,7 @@ Usually these questions are answered in the acceptance email.
 *  Checkout Guy Kawasaki's infograph, [Ten Easy Ways to Make Your Pitch Rock!](http://guykawasaki.com/ten-easy-ways-to-make-your-pitch-rock/)
 
 
-#Step 4: Practice , Practice and Practice
+# Step 4: Practice , Practice and Practice
 
 *  Start practicing your slides. Engage your family, friends and colleagues to give you feedback if possible. Iterate until you feel comfortable. 
    Practice presenting standing up if possible.
@@ -52,7 +52,7 @@ Usually these questions are answered in the acceptance email.
 *  Prepare for <b>surprises</b>. Practice sharing one piece of information your audience needs to know about each slide in about 10 seconds.  This backup plan will immensely help, if you get interrupted by a round of applause, loose your train of thoughts, technical difficulty etc
 
 
-#Step 5: Show up early for your presentation
+# Step 5: Show up early for your presentation
 *  Meet the host and fellow presenters
 *  Get comfortable with your audience, presenters and location
 *  Check with the host or AV tech when your 5 minutes will start 
