@@ -17,6 +17,7 @@ tag:
 I started working on [Ask GitHub](http://askgithub.com) few months ago to search latest GitHub public timeline to answer questions and identify basic insights. Along the way I wanted to <strong>learn</strong> and experiment with new technologies.
 
 <img src="http://dev.assets.neo4j.com.s3.amazonaws.com/wp-content/uploads/polyglot-persistence-wanderu-neo4j-mongodb-300x200.jpg" align="left" hspace="25" vspace="13" />
+
 ## The Technical Challenge & Solution
 During a 24 hour period the GitHub public timeline on average includes 500K commits, 25K new repositories, 30K starred repositories, 
 100k contributors, adding up to more than 1GB of data. Storing and accessing this data is vital. What are my options?
