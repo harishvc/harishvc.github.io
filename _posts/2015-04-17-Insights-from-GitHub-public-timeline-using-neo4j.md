@@ -25,25 +25,25 @@ I am super excited and can't wait to spend more time experimenting with Neo4j!
 Below are initial sections from the GraphGist. You can visit [Ask GitHub] (http://askgithub.com) and see Neo4j in action 
 by search for repositories and clicking on the button to "find similar repositories" (driven by [GrapheneDB](http://graphenedb.com))
 
-##Data Source
+## Data Source
 Public GitHub timeline from GitHub Archive is parsed hourly using [node.js streaming parser] (https://github.com/harishvc/githubanalytics/blob/master/bin/FetchParseGitHubArchive.js). 
 Currently event type `PushEvent`, `CreateEvent` & `WatchEvent` are captured. `PushEvent` contains information about `commits` and `authors`. `CreateEvent` contains 
 new repositories. `WatchEvent` contains information about popular repositories. All the data is first stored in MongoDB. Data stored in MongoDB is then 
 processed using [Neo4jSync.py] (https://github.com/harishvc/githubanalytics/blob/master/bin/Neo4jSync.py) to generate CSV files and imported into GrapheneDB. 
 This data model will change - _Hello Neo4j!_
 
-##Data Model
+## Data Model
 Currently there are three types of nodes - `Repository`, `Organization` &amp; `People`. `Repository` node contains information about repository and when node was created. `Organization` node contains information about the organization specific repository belongs to and when node was created. `People` node contains information about contributors (*email address of contributors*) and when the node was created. `IN_ORGANIZATION` relationship exists between `Respository` node and `Organization` node. `IS_ACTOR` relationship exists between `Respository` and `People` node. There can be more than one person contributing to a repository.
 
 
-##Nodes &amp; Relationships model developed using YUML
+## Nodes &amp; Relationships model developed using YUML
 ![Data Model](http://yuml.me/8d623aea)
 
-##Screenshot #1: Repositories for organization `openstack`
+## Screenshot #1: Repositories for organization `openstack`
 ![Repositories for organization openstack](https://raw.githubusercontent.com/harishvc/githubanalytics/master/cypher-dataset-20March2015-211400/neo4j-graph-1.png)
 
-##Screenshot #2: Repository `openstack/openstack`
+## Screenshot #2: Repository `openstack/openstack`
 ![Repositories openstack/openstack](https://raw.githubusercontent.com/harishvc/githubanalytics/master/cypher-dataset-20March2015-211400/neo4j-graph-2.png)
 
-##Insights
+## Insights
 For insights #1 - #6 please visit [GraphGist](http://gist.neo4j.org/?d9adad5c248385bea68c)

@@ -22,29 +22,29 @@ Using [flask-paginate](http://flask-paginate.readthedocs.org/en/latest/), a pagi
 
 Below are the steps and my notes. Feedback welcome! 
 
-##Step 1: Install flask-paginate
+## Step 1: Install flask-paginate
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="8" data-gist-hide-footer="true"></code>
 
-##Step 2: Initialize
+## Step 2: Initialize
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="12-22" data-gist-hide-footer="true"></code>
 
-##Step 3: Render templates with pagination
+## Step 3: Render templates with pagination
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="25-32" data-gist-hide-footer="true"></code>
 
-##Step 4: Call pagination with options
+## Step 4: Call pagination with options
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="35-56" data-gist-hide-footer="true"></code>
 
-##Step 5: Include pagination tags inside templates
+## Step 5: Include pagination tags inside templates
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="59-62" data-gist-hide-footer="true"></code>
 
-##Step 6: CSS (optional)
+## Step 6: CSS (optional)
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="65-79" data-gist-hide-footer="true"></code>
 
-##Step 7: MongoDB queries to handle pagination
+## Step 7: MongoDB queries to handle pagination
 <code data-gist-id="42d4caefd75e7dc1983f" data-gist-line="82-92" data-gist-hide-footer="true"></code>
 I had to rewrite ```aggregate``` function to create an array to latter ```unwind``` for finding numbers of rows returned for a specific query.
 ```skip``` lets you skip over earlier search results and ```limit``` limits returned rows. 
 
-##Example
+## Example
 ![example](/pics/pagination-flask-2.png)
 

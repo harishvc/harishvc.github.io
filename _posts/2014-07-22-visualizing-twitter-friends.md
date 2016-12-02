@@ -16,7 +16,7 @@ a visual timeline of Twitter friends.
 
 <img src="/pics/harishvc-friends.png" width="850"/>
 
-##Related Links
+## Related Links
 1. <a href="https://blog.twitter.com/2014/visualizing-your-twitter-conversations">Visualizing your Twitter conversations</a>
 2. <a href="http://visjs.org">vis.js</a>
 3. <a href="http://nodejs.org">Node.js</a>

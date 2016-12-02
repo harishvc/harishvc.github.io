@@ -27,7 +27,7 @@ and with minimal effort I could display temperature and humidity.
 Using Node.js you can programatically trigger notification via email, text or tweet. You can also programatically
 trigger recepies using automation tools like <a href="http://zapier.com">Zapier</a> and <a href="http://ifttt.com">IFTTT</a>. Certainly I see amazing endless possibilities! 
 
-##Related Links
+## Related Links
 1. <a href="https://github.com/rwaldron/johnny-five">Johnny Five (Firmata based Arduino Framework)</a>
 2. <a href="http://start.tessel.io/install">Tessel start</a>
 3. <a href="http://nodejs.org">Node.js</a>

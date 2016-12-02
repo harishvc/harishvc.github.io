@@ -56,5 +56,5 @@ to ask in addition to surrounding complexities. I was sharing my notes as I was 
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-##Disclosure
+## Disclosure
 I strongly believe in leveraging analytics to improve services and user experience.  I reviewed ASK MEASURE LEARN as a part of <a href="http://oreilly.com/bloggers">O'Reilly Reader Review Program</a>
