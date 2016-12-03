@@ -10,7 +10,8 @@ tag:
 - makerfaire
 - nationofmakers
 ---
-<img src="http://makerfaire.files.wordpress.com/2014/06/bqvkohvcqaijopw.jpg?w=520&h=420"/>
+
+<img src="https://www.whitehouse.gov/sites/default/files/longpage/nation_of_makers_newheader.jpg"/>
 
 Today, President Obama hosted the first ever White House  Maker Faire and said in a proclamation that made <b>June 18</b> the <b>National Day of Makers</b>.
 
