@@ -23,3 +23,4 @@ Below is my presentation on YouTube
 
 * [Next Challenge? Try Rock Wall Climbing](http://t.co/ExzJ4x0RO8)
 * [Next Challenge? Try Obstacle Course Race](http://linkd.in/1H4PoVl)
+* [Next Challenge? Moving Forward & Chasing Dreams](https://www.linkedin.com/pulse/next-challenge-moving-forward-chasing-dreams-harish-chakravarthy)
