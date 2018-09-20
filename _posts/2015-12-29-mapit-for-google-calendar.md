@@ -43,7 +43,7 @@ Replace the `innerText` in class `lv-location` with `innerHTML` link to Google M
 
  * line 3: extension name
  * line 4: extension version
- * line 5-10: content.js is a JavaScript file that runs in the context of `\*://calendar.google.com/calendar/render\*`. Here `*` handles http, https and query parameters.  
+ * line 5-10: content.js is a JavaScript file that runs in the context of `*://calendar.google.com/calendar/render*`. Here `*` handles http, https and query parameters.  
  * line 11-14: background.js has access to Chrome API  
  * line 15: permission to access tab and alarm    
 
