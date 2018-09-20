@@ -43,7 +43,7 @@ Replace the `innerText` in class `lv-location` with `innerHTML` link to Google M
 
  * line 3: extension name
  * line 4: extension version
- * line 5-10: content.js is a JavaScript file that runs in the context of "\*://calendar.google.com/calendar/render\*". Here "*" handles http, https and query parameters.  
+ * line 5-10: content.js is a JavaScript file that runs in the context of `\*://calendar.google.com/calendar/render\*`. Here `*` handles http, https and query parameters.  
  * line 11-14: background.js has access to Chrome API  
  * line 15: permission to access tab and alarm    
 
@@ -67,7 +67,7 @@ Interested in further reading? Check out [Gabe Berke-Williams Chrome extension t
 ## 4. Handle user interaction - Browser resize
 <script src="https://gist.github.com/harishvc/539bbb15a74a5e14b675.js"></script>  
 
-*line 8: Trigger `Start()` after browser resize
+* line 8: Trigger `Start()` after browser resize
 
 
 ## 5. Handle user interaction  via tab
@@ -79,7 +79,7 @@ Interested in further reading? Check out [Gabe Berke-Williams Chrome extension t
 
 ## 6. Handle user interaction via events
 <script src="https://gist.github.com/harishvc/eac4094c2d395d9863d7.js"></script>  
-  
+
 * line 3: Add alarm to trigger every 2 minutes
 * line 17: Add listener on the alarm
 * line 20: Send a `checking` message to `content.js`
