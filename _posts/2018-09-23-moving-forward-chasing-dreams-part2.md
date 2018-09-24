@@ -5,7 +5,7 @@ date:   2018-09-23
 excerptimagealt: "we haven't won yet!"
 excerptimage: /pics/we-havent-won-yet.png
 excerpt: Almost two years ago I challenged myself to get outside my comfort zone by accepting an opportunity in a startup where I had limited domain expertise.
-My amazing journey kept me on my toes, provided an opportunity to learn new things, and reinforced three powerful life lessons. I shared my story on LinkedIn.
+         My amazing journey kept me on my toes, provided an opportunity to learn new things, and reinforced three powerful life lessons.
 tag:
 - startup
 - challenge
